@@ -1,4 +1,6 @@
 # Smart Box IoT
+
+## NOTE: This is not the original repository! All credits go to: https://github.com/andrewkristofer/SmartBox-IoT
 ## 📖 Overview
 This project is developed as part of the Despro 2 (Design Project 2) course.
 The focus is on designing, simulating, and testing an embedded hardware system using Proteus as the primary development environment.
